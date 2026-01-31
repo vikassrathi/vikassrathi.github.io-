@@ -1,0 +1,70 @@
+{
+  "profile": {
+    "name": "Vikas Rathi",
+    "role": "Data Engineer",
+    "company": "Sigmoid",
+    "tagline": "Building data pipelines and AI solutions",
+    "email": "your-email@example.com",
+    "linkedin": "https://linkedin.com/in/your-profile"
+  },
+  "about": "Data Engineer at Sigmoid with expertise in building scalable data pipelines, real-time streaming systems, and AI-powered solutions. Focused on solving complex data challenges with modern technologies.",
+  "skills": [
+    "Python",
+    "Apache Spark",
+    "Apache Airflow",
+    "SQL",
+    "AWS",
+    "Docker",
+    "Kafka",
+    "Databricks",
+    "PostgreSQL",
+    "Snowflake",
+    "dbt",
+    "Git"
+  ],
+  "certifications": [
+    {
+      "title": "Professional Data Engineer",
+      "issuer": "Google Cloud",
+      "year": ""
+    },
+    {
+      "title": "Azure AI Associate",
+      "issuer": "Microsoft",
+      "year": ""
+    },
+    {
+      "title": "Databricks Associate",
+      "issuer": "Databricks",
+      "year": ""
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Mentored Interns on Medallion Architecture Project",
+      "description": "Guided interns to build metrics dashboard using Streamlit"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Your Degree",
+      "institution": "Institution Name",
+      "year": "Year"
+    }
+  ],
+  "featuredProjects": [
+    "CDC-Pipeline-with-Spark-Structured-Streaming",
+    "Airflow-etl",
+    "Config-Driven-Pipeline",
+    "Langchain-Langraph-Projects",
+    "MCP-Server",
+    "DataEngineeringProjects"
+  ],
+  "contact": {
+    "email": "your-email@example.com",
+    "github": "https://github.com/vikassrathi",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "leetcode": "https://leetcode.com/appmoprofile",
+    "gfg": "https://www.geeksforgeeks.org/user/illionlearn"
+  }
+}
