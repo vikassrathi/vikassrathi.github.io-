@@ -6,35 +6,44 @@
     "tagline": "Building data pipelines and AI solutions",
     "email": "rathivikas06@gmail.com",
     "linkedin": "https://www.linkedin.com/in/rathivikas"
+    
   },
   "about": "Data Engineer at Sigmoid with expertise in building scalable data pipelines, real-time streaming systems, and AI-powered solutions. Focused on solving complex data challenges with modern technologies.",
   "skills": [
+    "Spark",
     "Python",
-    "Apache Spark",
-    "Apache Airflow",
     "SQL",
-    "AWS",
+    "Airflow",
+    "PySpark",
+    "Azure (Fabric, Databricks, Data Factory, Synapse)",
+    "GCP (BigQuery, Composer)",
+    "AWS (Redshift, Lambda)",
+    "LangGraph",
+    "Prompt Engineering",
+    "Google ADK",
     "Docker",
-    "Kafka",
-    "Databricks",
-    "PostgreSQL",
-    "Snowflake",
-    "AI Agents",
-    "Git"
+    "Git",
+    "System Design (LLD/HLD)",
+    "Distributed Systems",
   ],
   "certifications": [
     {
-      "title": "Professional Data Engineer",
+      "title": "Google Associate Data Engineer (GCP)",
       "issuer": "Google Cloud",
       "year": ""
     },
     {
-      "title": "Azure AI Associate",
+      "title": "Microsoft Certified: Fabric Analytics Engineer Associate",
       "issuer": "Microsoft",
       "year": ""
     },
     {
-      "title": "Databricks Associate",
+      "title": "Microsoft Certified: Azure AI Engineer Associate (AI-102)",
+      "issuer": "Microsoft",
+      "year": ""
+    },
+    {
+      "title": "Databricks Certified Associate Data Engineer",
       "issuer": "Databricks",
       "year": ""
     }
@@ -43,13 +52,17 @@
     {
       "title": "Mentored Interns on Medallion Architecture Project",
       "description": "Guided interns to build metrics dashboard using Streamlit"
+    },
+    {
+      "title": "Winner of Company-Wide Hackathon (Sigmoid Analytics)",
+      "description": "Built a no-code, config-driven ETL accelerator on Microsoft Fabric that enables automated pipeline creation using Fabric notebooks for ingestion and validation."
     }
   ],
   "education": [
     {
-      "degree": "Your Degree",
-      "institution": "Institution Name",
-      "year": "Year"
+      "degree": "B.Tech in Computer Science",
+      "institution": "Rajasthan Technical University",
+      "year": "2021"
     }
   ],
   "featuredProjects": [
@@ -62,6 +75,7 @@
   ],
   "contact": {
     "email": "rathivikas06@gmail.com",
+    "scalar" : "https://www.scaler.com/academy/profile/"
     "github": "https://github.com/vikassrathi",
     "linkedin": "https://www.linkedin.com/in/rathivikas",
     "leetcode": "https://leetcode.com/appmoprofile",
